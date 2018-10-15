@@ -1,5 +1,3 @@
-# teleio.github.io
-GH Pages for TeleIO
 # Houston: KSP Mission Control for Telemachus Reborn
 
 Have you ever been launching Kerbals into the Sun and thought
