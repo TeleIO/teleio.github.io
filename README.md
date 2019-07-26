@@ -10,4 +10,4 @@
 
 <hr>
 
-Those all are recreations of original mods. They were abondoned... But we... Reborn them all!
+Those all are recreations of original mods. They were abandoned... But we... Reborn them all!
